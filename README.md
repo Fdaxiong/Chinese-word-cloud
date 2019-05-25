@@ -10,7 +10,7 @@
 
 最后的成品:
 
-![](C:\Users\88487\Desktop\词云\cloud_img.png)
+![](https://github.com/Fdaxiong/Chinese-word-cloud/blob/master/cloud_img.png)
 
 
 
@@ -31,7 +31,8 @@ pyCharm小技巧 快速导包快捷键 Alt+Enter+Enter
 2.准备好一个TXT.文本
     TXT文本里面要有文字内容
 
-![](C:\Users\88487\Desktop\小说.png)
+![](https://github.com/Fdaxiong/Chinese-word-cloud/blob/master/小说.png)
+
 
 3.准备一张图片jpg.png格式都可用 
     这里的图片是作为词云的蒙版使用
@@ -45,7 +46,7 @@ pyCharm小技巧 快速导包快捷键 Alt+Enter+Enter
     一般在电脑的系统盘:这是我电脑字体存放的路径  C:\Windows\Fonts
     进去里面复制一个你喜欢的字体出来
 
-![](C:\Users\88487\Desktop\字体.png)
+![](https://github.com/Fdaxiong/Chinese-word-cloud/blob/master/字体.png)
 
 5.以上文本,图片,字体我都存放在同一个文件夹下
          准备好这些就可以编写代码了
