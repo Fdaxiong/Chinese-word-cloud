@@ -36,7 +36,7 @@ pyCharm小技巧 快速导包快捷键 Alt+Enter+Enter
     这里的图片是作为词云的蒙版使用
     (个性化词云就是因为背景图蒙版不一样)
 
-![](F:\python_jxsz\爬虫\crawler\masking.png)
+![](https://github.com/Fdaxiong/word-cloud/blob/master/masking.png)
 
 4.还要准备好一个字体.
     HYXiXingKaiW.ttf
